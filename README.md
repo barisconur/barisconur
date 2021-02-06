@@ -1,4 +1,4 @@
-## Hi 👋, it's <a href="https://barisconur.github.io/" target="_blank">my portfolio and personal blog page</a>
+## Hi 👋, it's <a href="https://barisconur.github.io/" target="_blank">my portfolio page</a>
 ![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 - 📫 How to reach me:
