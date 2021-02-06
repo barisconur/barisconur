@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Baris Cemal Onur](barisconur.github.io)
+## Hi 👋, it's my portfolio and blog page <a href="barisconur.github.io"></a>
 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/barış-cemal-onur-714448138/)
